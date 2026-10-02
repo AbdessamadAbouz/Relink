@@ -56,3 +56,4 @@ Relink runs inside Framer and works with your CMS only through Framer's Plugin A
 Questions, problems, or license help: **abdessamad.abouz@gmail.com**
 
 If something doesn't work as expected, please describe the collections and fields involved. Terms and refunds: [TERMS.md](TERMS.md).
+# Relink
